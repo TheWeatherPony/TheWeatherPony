@@ -7,6 +7,7 @@
 
 :woozy_face: Please understand that I sometimes have small, temporary bouts of code insanity when I hit a brick wall from working with complicated and completely undocumented code when it leaves me with a chained XY problem. (last one was caused by 6+ year old, barely-reported (but was known) bugs *deep* in the JVM)
 
+Note to CurseForge -- I want to remove my 2FA, but keep my email and password.
 <!---
 TheWeatherPony/TheWeatherPony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
